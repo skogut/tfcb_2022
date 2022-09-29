@@ -1,5 +1,5 @@
 # Lecture 1: Introduction to Course, Git, VSCode, Markdown
-
+testestest
 ## Pre-Class Tasks
 
 - Complete the [pre-class survey](https://forms.gle/h8Xpaiu49baTdP7SA)
